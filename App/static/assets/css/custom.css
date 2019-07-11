@@ -1,0 +1,158 @@
+/* Preloader Style */
+.spinner-section{
+    width: 100%;
+    max-width: 100%;
+    height: 100vh;
+    min-height: 100vh;
+    background: #000;
+    position: fixed;
+    z-index: 999999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.loader {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 50%;
+    margin: 75px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.preloader {
+    border-width: 7px;
+    border-style: double;
+    -webkit-animation: ball-turn 1s linear infinite;
+    animation: ball-turn 1s linear infinite;
+}
+.preloader::before, 
+.preloader::after {
+	content: "";
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	bottom: 0px;
+	right: 10px;
+	background: #000;
+	border-width: 1px;
+	border-style: solid;
+}
+.preloader::after {
+	left: 10px;
+	top: 0;
+}
+
+/* ----------------     KEYFRAMES    ----------------- */
+@-webkit-keyframes ball-turn {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes ball-turn {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+/* button */
+.main-btn {
+	display: inline-block;
+	vertical-align: middle;
+	border: 1px solid #ffffff;
+	-webkit-transform: perspective(1px) translateZ(0);
+	transform: perspective(1px) translateZ(0);
+	box-shadow: 0 0 1px transparent;
+	position: relative;
+	-webkit-transition-property: color;
+	transition-property: color;
+	-webkit-transition-duration: .3s;
+	transition-duration: .3s;
+	border-radius: 3px;
+	color: #fff;
+	font-weight: 600;
+	padding: 10px 30px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+.main-btn:hover{
+	color: #ffffff;
+}
+.main-btn:active:before, 
+.main-btn:focus:before, 
+.main-btn:hover:before {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+.main-btn:before {
+	content: "";
+	position: absolute;
+	background-color: #333;
+	z-index: -1;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	border-radius: 3px;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	-webkit-transition-property: transform;
+	-webkit-transition-property: -webkit-transform;
+	transition-property: -webkit-transform;
+	transition-property: transform;
+	transition-property: transform, -webkit-transform;
+	-webkit-transition-duration: .3s;
+	transition-duration: .3s;
+	-webkit-transition-timing-function: ease-out;
+	transition-timing-function: ease-out;
+}
+.white-btn.main-btn {
+	background-color: #ffffff !important;
+}
+.white-btn.main-btn:hover{
+	color: #ffffff;
+}
+
+/* carousel dots */
+.owl-carousel {
+	margin-bottom: 50px;
+}
+.testimonial-section .owl-dots {
+	bottom: 0px;
+}
+.best-client-list.owl-carousel{
+	margin-bottom: 0px;
+}
+.owl-dots {
+	bottom: -50px;
+	left: 0;
+	position: absolute;
+	right: 0;
+	text-align: center;
+}
+.owl-dot {
+	border-radius: 3px;
+	display: inline-block;
+	height: 8px;
+	margin: 0 5px;
+	-webkit-transition: all 0.2s linear 0s;
+	transition: all 0.2s linear 0s;
+	width: 15px;
+}
+.owl-dot.active, .owl-dot:hover {
+	width: 25px;
+}

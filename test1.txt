@@ -1,0 +1,628 @@
+
+
+Sentence is: RS!
+
+Tokenized words: ['rs', '!']
+
+Stopword removed: ['rs', '!']
+
+Punctuation removed: ['rs']
+
+
+
+Sentence is: The badge holds high regard in any car enthusiast's heart.
+
+Tokenized words: ['the', 'badge', 'holds', 'high', 'regard', 'in', 'any', 'car', 'enthusiast', "'s", 'heart', '.']
+
+Stopword removed: ['badge', 'holds', 'high', 'regard', 'car', 'enthusiast', "'s", 'heart', '', '.']
+
+Punctuation removed: ['badge', 'holds', 'high', 'regard', 'car', 'enthusiast', "'s", 'heart']
+
+
+
+Sentence is: While different foreign manufacturers did bring in their versions - Octavia, Laura and Avant, there weren't any Indian companies joining the fray.
+
+Tokenized words: ['while', 'different', 'foreign', 'manufacturers', 'did', 'bring', 'in', 'their', 'versions', '-', 'octavia', ',', 'laura', 'and', 'avant', ',', 'there', 'were', "n't", 'any', 'indian', 'companies', 'joining', 'the', 'fray', '.']
+
+Stopword removed: ['different', 'foreign', 'manufacturers', 'bring', 'versions', '-', 'octavia', ',', 'laura', 'avant', ',', "n't", 'indian', 'companies', 'joining', 'fray', '', '.']
+
+Punctuation removed: ['different', 'foreign', 'manufacturers', 'bring', 'versions', 'octavia', 'laura', 'avant', "n't", 'indian', 'companies', 'joining', 'fray']
+
+
+
+Sentence is: Maruti was supposed to get in the Swift RS, but what we got instead was the limited edition cosmetic-only trim in 2015.
+
+Tokenized words: ['maruti', 'was', 'supposed', 'to', 'get', 'in', 'the', 'swift', 'rs', ',', 'but', 'what', 'we', 'got', 'instead', 'was', 'the', 'limited', 'edition', 'cosmetic-only', 'trim', 'in', '2015', '.']
+
+Stopword removed: ['maruti', 'supposed', 'get', 'swift', 'rs', ',', 'got', 'instead', 'limited', 'edition', 'cosmetic-only', 'trim', '2015', '', '.']
+
+Punctuation removed: ['maruti', 'supposed', 'get', 'swift', 'rs', 'got', 'instead', 'limited', 'edition', 'cosmetic-only', 'trim', '2015']
+
+
+
+Sentence is: Then the Ciaz with a similar body kit showed up.
+
+Tokenized words: ['then', 'the', 'ciaz', 'with', 'a', 'similar', 'body', 'kit', 'showed', 'up', '.']
+
+Stopword removed: ['ciaz', 'similar', 'body', 'kit', 'showed', '', '.']
+
+Punctuation removed: ['ciaz', 'similar', 'body', 'kit', 'showed']
+
+
+
+Sentence is: But now, the company has a proper RS trim in the Baleno and we were invited to the BIC to drive it.The cars at the BIC were already warmed up for us by the good folk at Maruti.
+
+Tokenized words: ['but', 'now', ',', 'the', 'company', 'has', 'a', 'proper', 'rs', 'trim', 'in', 'the', 'baleno', 'and', 'we', 'were', 'invited', 'to', 'the', 'bic', 'to', 'drive', 'it.the', 'cars', 'at', 'the', 'bic', 'were', 'already', 'warmed', 'up', 'for', 'us', 'by', 'the', 'good', 'folk', 'at', 'maruti', '.']
+
+Stopword removed: [',', 'company', 'proper', 'rs', 'trim', 'baleno', 'invited', 'bic', 'drive', 'cars', 'bic', 'already', 'warmed', 'us', 'good', 'folk', 'maruti', '', '.']
+
+Punctuation removed: ['company', 'proper', 'rs', 'trim', 'baleno', 'invited', 'bic', 'drive', 'cars', 'bic', 'already', 'warmed', 'us', 'good', 'folk', 'maruti']
+
+
+
+Sentence is: First impressions suggest that NVH levels are excellent for a 3-cylinder engine, so much that you will not believe it's one cylinder less than the regular 1.2l petrol.
+
+Tokenized words: ['first', 'impressions', 'suggest', 'that', 'nvh', 'levels', 'are', 'excellent', 'for', 'a', '3-cylinder', 'engine', ',', 'so', 'much', 'that', 'you', 'will', 'not', 'believe', 'it', "'s", 'one', 'cylinder', 'less', 'than', 'the', 'regular', '1.2l', 'petrol', '.']
+
+Stopword removed: ['first', 'impressions', 'suggest', 'nvh', 'levels', 'excellent', '3-cylinder', 'engine', ',', 'much', 'believe', "'s", 'one', 'cylinder', 'less', 'regular', '1', 'petrol', '', '.']
+
+Punctuation removed: ['first', 'impressions', 'suggest', 'nvh', 'levels', 'excellent', '3-cylinder', 'engine', 'much', 'believe', "'s", 'one', 'cylinder', 'less', 'regular', '1', 'petrol']
+
+
+
+Sentence is: This 998cc fixed geometry turbo-petrol is an all-new motor and makes 102PS/150Nm.If you remember, the car showcased at the expo had a rumoured 110PS/170Nm.
+
+Tokenized words: ['this', '998cc', 'fixed', 'geometry', 'turbo-petrol', 'is', 'an', 'all-new', 'motor', 'and', 'makes', '102ps/150nm.if', 'you', 'remember', ',', 'the', 'car', 'showcased', 'at', 'the', 'expo', 'had', 'a', 'rumoured', '110ps/170nm', '.']
+
+Stopword removed: ['998cc', 'fixed', 'geometry', 'turbo-petrol', 'all-new', 'motor', 'makes', '102ps/150nm', 'remember', ',', 'car', 'showcased', 'expo', 'rumoured', '110ps/170nm', '', '.']
+
+Punctuation removed: ['998cc', 'fixed', 'geometry', 'turbo-petrol', 'all-new', 'motor', 'makes', '102ps/150nm', 'remember', 'car', 'showcased', 'expo', 'rumoured', '110ps/170nm']
+
+
+
+Sentence is: These specifications were same as the international-spec (Boosterjet-engined) trims.
+
+Tokenized words: ['these', 'specifications', 'were', 'same', 'as', 'the', 'international-spec', '(', 'boosterjet-engined', ')', 'trims', '.']
+
+Stopword removed: ['specifications', 'international-spec', '(', 'boosterjet-engined', ')', 'trims', '', '.']
+
+Punctuation removed: ['specifications', 'international-spec', 'boosterjet-engined', 'trims']
+
+
+
+Sentence is: However, these models require 91 RON fuel and our country at the moment isn't equipped for the same.
+
+Tokenized words: ['however', ',', 'these', 'models', 'require', '91', 'ron', 'fuel', 'and', 'our', 'country', 'at', 'the', 'moment', 'is', "n't", 'equipped', 'for', 'the', 'same', '.']
+
+Stopword removed: ['however', ',', 'models', 'require', '91', 'ron', 'fuel', 'country', 'moment', "n't", 'equipped', '', '.']
+
+Punctuation removed: ['however', 'models', 'require', '91', 'ron', 'fuel', 'country', 'moment', "n't", 'equipped']
+
+
+
+Sentence is: Speaking of which, this engine is an import from Suzuki's Japan plant and adds to about 60kg to the Baleno's overall weight (950kg).
+
+Tokenized words: ['speaking', 'of', 'which', ',', 'this', 'engine', 'is', 'an', 'import', 'from', 'suzuki', "'s", 'japan', 'plant', 'and', 'adds', 'to', 'about', '60kg', 'to', 'the', 'baleno', "'s", 'overall', 'weight', '(', '950kg', ')', '.']
+
+Stopword removed: ['speaking', ',', 'engine', 'import', 'suzuki', "'s", 'japan', 'plant', 'adds', '60kg', 'baleno', "'s", 'overall', 'weight', '(', '950kg', ')', '', '.']
+
+Punctuation removed: ['speaking', 'engine', 'import', 'suzuki', "'s", 'japan', 'plant', 'adds', '60kg', 'baleno', "'s", 'overall', 'weight', '950kg']
+
+
+
+Sentence is: This also adds to the cost of the car.On to the drive experience then.
+
+Tokenized words: ['this', 'also', 'adds', 'to', 'the', 'cost', 'of', 'the', 'car.on', 'to', 'the', 'drive', 'experience', 'then', '.']
+
+Stopword removed: ['also', 'adds', 'cost', 'car', 'drive', 'experience', '', '.']
+
+Punctuation removed: ['also', 'adds', 'cost', 'car', 'drive', 'experience']
+
+
+
+Sentence is: The motor builds up speed rapidly and is a high-revving unit.
+
+Tokenized words: ['the', 'motor', 'builds', 'up', 'speed', 'rapidly', 'and', 'is', 'a', 'high-revving', 'unit', '.']
+
+Stopword removed: ['motor', 'builds', 'speed', 'rapidly', 'high-revving', 'unit', '', '.']
+
+Punctuation removed: ['motor', 'builds', 'speed', 'rapidly', 'high-revving', 'unit']
+
+
+
+Sentence is: We like the way it has minimal turbo lag even with an FGT.
+
+Tokenized words: ['we', 'like', 'the', 'way', 'it', 'has', 'minimal', 'turbo', 'lag', 'even', 'with', 'an', 'fgt', '.']
+
+Stopword removed: ['like', 'way', 'minimal', 'turbo', 'lag', 'even', 'fgt', '', '.']
+
+Punctuation removed: ['like', 'way', 'minimal', 'turbo', 'lag', 'even', 'fgt']
+
+
+
+Sentence is: For the sake of photographs, we had to drive the car at 40kmph and it was happy doing it at third gear.
+
+Tokenized words: ['for', 'the', 'sake', 'of', 'photographs', ',', 'we', 'had', 'to', 'drive', 'the', 'car', 'at', '40kmph', 'and', 'it', 'was', 'happy', 'doing', 'it', 'at', 'third', 'gear', '.']
+
+Stopword removed: ['sake', 'photographs', ',', 'drive', 'car', '40kmph', 'happy', 'third', 'gear', '', '.']
+
+Punctuation removed: ['sake', 'photographs', 'drive', 'car', '40kmph', 'happy', 'third', 'gear']
+
+
+
+Sentence is: There is no sudden spike in the power delivery, and the linear approach adopted by Maruti will align with the family car appeal of the Baleno.On the straight at BIC, we saw 160kmph in fourth gear, with the tachometer needle nudging the 6,200rpm redline, before we had to brake for the corner.
+
+Tokenized words: ['there', 'is', 'no', 'sudden', 'spike', 'in', 'the', 'power', 'delivery', ',', 'and', 'the', 'linear', 'approach', 'adopted', 'by', 'maruti', 'will', 'align', 'with', 'the', 'family', 'car', 'appeal', 'of', 'the', 'baleno.on', 'the', 'straight', 'at', 'bic', ',', 'we', 'saw', '160kmph', 'in', 'fourth', 'gear', ',', 'with', 'the', 'tachometer', 'needle', 'nudging', 'the', '6,200rpm', 'redline', ',', 'before', 'we', 'had', 'to', 'brake', 'for', 'the', 'corner', '.']
+
+Stopword removed: ['sudden', 'spike', 'power', 'delivery', ',', 'linear', 'approach', 'adopted', 'maruti', 'align', 'family', 'car', 'appeal', 'baleno', 'straight', 'bic', ',', 'saw', '160kmph', 'fourth', 'gear', ',', 'tachometer', 'needle', 'nudging', '6,200rpm', 'redline', ',', 'brake', 'corner', '', '.']
+
+Punctuation removed: ['sudden', 'spike', 'power', 'delivery', 'linear', 'approach', 'adopted', 'maruti', 'align', 'family', 'car', 'appeal', 'baleno', 'straight', 'bic', 'saw', '160kmph', 'fourth', 'gear', 'tachometer', 'needle', 'nudging', '6,200rpm', 'redline', 'brake', 'corner']
+
+
+
+Sentence is: However, we wish the motor sounded a tad more sporty at those speeds.
+
+Tokenized words: ['however', ',', 'we', 'wish', 'the', 'motor', 'sounded', 'a', 'tad', 'more', 'sporty', 'at', 'those', 'speeds', '.']
+
+Stopword removed: ['however', ',', 'wish', 'motor', 'sounded', 'tad', 'sporty', 'speeds', '', '.']
+
+Punctuation removed: ['however', 'wish', 'motor', 'sounded', 'tad', 'sporty', 'speeds']
+
+
+
+Sentence is: Maruti also haven't quoted any claimed 0-100kmph numbers, but the company did stress on the claimed fuel efficiency of 21.1kmpl.Maruti says that they have stiffened the shocks at the front to accommodate the extra weight of the engine.
+
+Tokenized words: ['maruti', 'also', 'have', "n't", 'quoted', 'any', 'claimed', '0-100kmph', 'numbers', ',', 'but', 'the', 'company', 'did', 'stress', 'on', 'the', 'claimed', 'fuel', 'efficiency', 'of', '21.1kmpl.maruti', 'says', 'that', 'they', 'have', 'stiffened', 'the', 'shocks', 'at', 'the', 'front', 'to', 'accommodate', 'the', 'extra', 'weight', 'of', 'the', 'engine', '.']
+
+Stopword removed: ['maruti', 'also', "n't", 'quoted', 'claimed', '0-100kmph', 'numbers', ',', 'company', 'stress', 'claimed', 'fuel', 'efficiency', '21', 'says', 'stiffened', 'shocks', 'front', 'accommodate', 'extra', 'weight', 'engine', '', '.']
+
+Punctuation removed: ['maruti', 'also', "n't", 'quoted', 'claimed', '0-100kmph', 'numbers', 'company', 'stress', 'claimed', 'fuel', 'efficiency', '21', 'says', 'stiffened', 'shocks', 'front', 'accommodate', 'extra', 'weight', 'engine']
+
+
+
+Sentence is: This shows in the way the car handles.
+
+Tokenized words: ['this', 'shows', 'in', 'the', 'way', 'the', 'car', 'handles', '.']
+
+Stopword removed: ['shows', 'way', 'car', 'handles', '', '.']
+
+Punctuation removed: ['shows', 'way', 'car', 'handles']
+
+
+
+Sentence is: It has a bit more nose dive than its naturally aspirated cousin.
+
+Tokenized words: ['it', 'has', 'a', 'bit', 'more', 'nose', 'dive', 'than', 'its', 'naturally', 'aspirated', 'cousin', '.']
+
+Stopword removed: ['bit', 'nose', 'dive', 'naturally', 'aspirated', 'cousin', '', '.']
+
+Punctuation removed: ['bit', 'nose', 'dive', 'naturally', 'aspirated', 'cousin']
+
+
+
+Sentence is: However, the car still handles predictably.
+
+Tokenized words: ['however', ',', 'the', 'car', 'still', 'handles', 'predictably', '.']
+
+Stopword removed: ['however', ',', 'car', 'still', 'handles', 'predictably', '', '.']
+
+Punctuation removed: ['however', 'car', 'still', 'handles', 'predictably']
+
+
+
+Sentence is: The steering wheel also lets you know how much effort has to be put to make that corner, and the effort doesn't vary every time you take the same corner at the same speed.That being said, the steering, like all Maruti units, feels a bit heavy at low speeds.
+
+Tokenized words: ['the', 'steering', 'wheel', 'also', 'lets', 'you', 'know', 'how', 'much', 'effort', 'has', 'to', 'be', 'put', 'to', 'make', 'that', 'corner', ',', 'and', 'the', 'effort', 'does', "n't", 'vary', 'every', 'time', 'you', 'take', 'the', 'same', 'corner', 'at', 'the', 'same', 'speed.that', 'being', 'said', ',', 'the', 'steering', ',', 'like', 'all', 'maruti', 'units', ',', 'feels', 'a', 'bit', 'heavy', 'at', 'low', 'speeds', '.']
+
+Stopword removed: ['steering', 'wheel', 'also', 'lets', 'know', 'much', 'effort', 'put', 'make', 'corner', ',', 'effort', "n't", 'vary', 'every', 'time', 'take', 'corner', 'speed', 'said', ',', 'steering', ',', 'like', 'maruti', 'units', ',', 'feels', 'bit', 'heavy', 'low', 'speeds', '', '.']
+
+Punctuation removed: ['steering', 'wheel', 'also', 'lets', 'know', 'much', 'effort', 'put', 'make', 'corner', 'effort', "n't", 'vary', 'every', 'time', 'take', 'corner', 'speed', 'said', 'steering', 'like', 'maruti', 'units', 'feels', 'bit', 'heavy', 'low', 'speeds']
+
+
+
+Sentence is: While we didn't have a chance to check the ride quality of the RS, expect it to retain the slightly firm ride quality that the car is known for.
+
+Tokenized words: ['while', 'we', 'did', "n't", 'have', 'a', 'chance', 'to', 'check', 'the', 'ride', 'quality', 'of', 'the', 'rs', ',', 'expect', 'it', 'to', 'retain', 'the', 'slightly', 'firm', 'ride', 'quality', 'that', 'the', 'car', 'is', 'known', 'for', '.']
+
+Stopword removed: ["n't", 'chance', 'check', 'ride', 'quality', 'rs', ',', 'expect', 'retain', 'slightly', 'firm', 'ride', 'quality', 'car', 'known', '', '.']
+
+Punctuation removed: ["n't", 'chance', 'check', 'ride', 'quality', 'rs', 'expect', 'retain', 'slightly', 'firm', 'ride', 'quality', 'car', 'known']
+
+
+
+Sentence is: Given the extra boost in power, the car comes with disc brakes on all four wheels.
+
+Tokenized words: ['given', 'the', 'extra', 'boost', 'in', 'power', ',', 'the', 'car', 'comes', 'with', 'disc', 'brakes', 'on', 'all', 'four', 'wheels', '.']
+
+Stopword removed: ['given', 'extra', 'boost', 'power', ',', 'car', 'comes', 'disc', 'brakes', 'four', 'wheels', '', '.']
+
+Punctuation removed: ['given', 'extra', 'boost', 'power', 'car', 'comes', 'disc', 'brakes', 'four', 'wheels']
+
+
+
+Sentence is: The brakes are nice to modulate and offer lots of feedback.
+
+Tokenized words: ['the', 'brakes', 'are', 'nice', 'to', 'modulate', 'and', 'offer', 'lots', 'of', 'feedback', '.']
+
+Stopword removed: ['brakes', 'nice', 'modulate', 'offer', 'lots', 'feedback', '', '.']
+
+Punctuation removed: ['brakes', 'nice', 'modulate', 'offer', 'lots', 'feedback']
+
+
+
+Sentence is: In short, they will stop the car where you want it to.Safety wise, twin airbags, ABS with EBD are standard.
+
+Tokenized words: ['in', 'short', ',', 'they', 'will', 'stop', 'the', 'car', 'where', 'you', 'want', 'it', 'to.safety', 'wise', ',', 'twin', 'airbags', ',', 'abs', 'with', 'ebd', 'are', 'standard', '.']
+
+Stopword removed: ['short', ',', 'stop', 'car', 'want', 'wise', ',', 'twin', 'airbags', ',', 'abs', 'ebd', 'standard', '', '.']
+
+Punctuation removed: ['short', 'stop', 'car', 'want', 'wise', 'twin', 'airbags', 'abs', 'ebd', 'standard']
+
+
+
+Sentence is: The Baleno RS is also compliant with front offset, side impact and pedestrian safety crash tests.
+
+Tokenized words: ['the', 'baleno', 'rs', 'is', 'also', 'compliant', 'with', 'front', 'offset', ',', 'side', 'impact', 'and', 'pedestrian', 'safety', 'crash', 'tests', '.']
+
+Stopword removed: ['baleno', 'rs', 'also', 'compliant', 'front', 'offset', ',', 'side', 'impact', 'pedestrian', 'safety', 'crash', 'tests', '', '.']
+
+Punctuation removed: ['baleno', 'rs', 'also', 'compliant', 'front', 'offset', 'side', 'impact', 'pedestrian', 'safety', 'crash', 'tests']
+
+
+
+Sentence is: Maruti officials confirmed that the bonnet absorbs much of the crash impact, instead of passing it on to the pedestrian it has collided with.Maruti distinguishes the RS from its stablemate by using new sporty bumpers at the front and rear, chrome grille, side skirts, black alloys and an integrated spoiler.
+
+Tokenized words: ['maruti', 'officials', 'confirmed', 'that', 'the', 'bonnet', 'absorbs', 'much', 'of', 'the', 'crash', 'impact', ',', 'instead', 'of', 'passing', 'it', 'on', 'to', 'the', 'pedestrian', 'it', 'has', 'collided', 'with.maruti', 'distinguishes', 'the', 'rs', 'from', 'its', 'stablemate', 'by', 'using', 'new', 'sporty', 'bumpers', 'at', 'the', 'front', 'and', 'rear', ',', 'chrome', 'grille', ',', 'side', 'skirts', ',', 'black', 'alloys', 'and', 'an', 'integrated', 'spoiler', '.']
+
+Stopword removed: ['maruti', 'officials', 'confirmed', 'bonnet', 'absorbs', 'much', 'crash', 'impact', ',', 'instead', 'passing', 'pedestrian', 'collided', 'distinguishes', 'rs', 'stablemate', 'using', 'new', 'sporty', 'bumpers', 'front', 'rear', ',', 'chrome', 'grille', ',', 'side', 'skirts', ',', 'black', 'alloys', 'integrated', 'spoiler', '', '.']
+
+Punctuation removed: ['maruti', 'officials', 'confirmed', 'bonnet', 'absorbs', 'much', 'crash', 'impact', 'instead', 'passing', 'pedestrian', 'collided', 'distinguishes', 'rs', 'stablemate', 'using', 'new', 'sporty', 'bumpers', 'front', 'rear', 'chrome', 'grille', 'side', 'skirts', 'black', 'alloys', 'integrated', 'spoiler']
+
+
+
+Sentence is: Of course, there is an RS badge at the back too.
+
+Tokenized words: ['of', 'course', ',', 'there', 'is', 'an', 'rs', 'badge', 'at', 'the', 'back', 'too', '.']
+
+Stopword removed: ['course', ',', 'rs', 'badge', 'back', '', '.']
+
+Punctuation removed: ['course', 'rs', 'badge', 'back']
+
+
+
+Sentence is: Unlike the GT TSI, the RS can be easily recognised as the more premium variant.The cabin could do with slightly more distinguishing features.
+
+Tokenized words: ['unlike', 'the', 'gt', 'tsi', ',', 'the', 'rs', 'can', 'be', 'easily', 'recognised', 'as', 'the', 'more', 'premium', 'variant.the', 'cabin', 'could', 'do', 'with', 'slightly', 'more', 'distinguishing', 'features', '.']
+
+Stopword removed: ['unlike', 'gt', 'tsi', ',', 'rs', 'easily', 'recognised', 'premium', 'variant', 'cabin', 'could', 'slightly', 'distinguishing', 'features', '', '.']
+
+Punctuation removed: ['unlike', 'gt', 'tsi', 'rs', 'easily', 'recognised', 'premium', 'variant', 'cabin', 'could', 'slightly', 'distinguishing', 'features']
+
+
+
+Sentence is: There is no change to the SmartPlay infotainment system or even the all-black upholstery.
+
+Tokenized words: ['there', 'is', 'no', 'change', 'to', 'the', 'smartplay', 'infotainment', 'system', 'or', 'even', 'the', 'all-black', 'upholstery', '.']
+
+Stopword removed: ['change', 'smartplay', 'infotainment', 'system', 'even', 'all-black', 'upholstery', '', '.']
+
+Punctuation removed: ['change', 'smartplay', 'infotainment', 'system', 'even', 'all-black', 'upholstery']
+
+
+
+Sentence is: Although, we particularly like the different menus that the multi-information display showcases, including available power and torque graphs.The RS badge gives the Baleno brand a shot in the arm.
+
+Tokenized words: ['although', ',', 'we', 'particularly', 'like', 'the', 'different', 'menus', 'that', 'the', 'multi-information', 'display', 'showcases', ',', 'including', 'available', 'power', 'and', 'torque', 'graphs.the', 'rs', 'badge', 'gives', 'the', 'baleno', 'brand', 'a', 'shot', 'in', 'the', 'arm', '.']
+
+Stopword removed: ['although', ',', 'particularly', 'like', 'different', 'menus', 'multi-information', 'display', 'showcases', ',', 'including', 'available', 'power', 'torque', 'graphs', 'rs', 'badge', 'gives', 'baleno', 'brand', 'shot', 'arm', '', '.']
+
+Punctuation removed: ['although', 'particularly', 'like', 'different', 'menus', 'multi-information', 'display', 'showcases', 'including', 'available', 'power', 'torque', 'graphs', 'rs', 'badge', 'gives', 'baleno', 'brand', 'shot', 'arm']
+
+
+
+Sentence is: Not that it needed it, with a seven-month waiting period and all.
+
+Tokenized words: ['not', 'that', 'it', 'needed', 'it', ',', 'with', 'a', 'seven-month', 'waiting', 'period', 'and', 'all', '.']
+
+Stopword removed: ['needed', ',', 'seven-month', 'waiting', 'period', '', '.']
+
+Punctuation removed: ['needed', 'seven-month', 'waiting', 'period']
+
+
+
+Sentence is: However, it debuts Maruti's first-ever turbo-petrol engine and will be a brand builder for future performance vehicles.
+
+Tokenized words: ['however', ',', 'it', 'debuts', 'maruti', "'s", 'first-ever', 'turbo-petrol', 'engine', 'and', 'will', 'be', 'a', 'brand', 'builder', 'for', 'future', 'performance', 'vehicles', '.']
+
+Stopword removed: ['however', ',', 'debuts', 'maruti', "'s", 'first-ever', 'turbo-petrol', 'engine', 'brand', 'builder', 'future', 'performance', 'vehicles', '', '.']
+
+Punctuation removed: ['however', 'debuts', 'maruti', "'s", 'first-ever', 'turbo-petrol', 'engine', 'brand', 'builder', 'future', 'performance', 'vehicles']
+
+
+
+Sentence is: In the sense, the Baleno is a nice and sporty family hatchback.It has the looks, interior space, efficient and punchy motor, and the Maruti reliability.
+
+Tokenized words: ['in', 'the', 'sense', ',', 'the', 'baleno', 'is', 'a', 'nice', 'and', 'sporty', 'family', 'hatchback.it', 'has', 'the', 'looks', ',', 'interior', 'space', ',', 'efficient', 'and', 'punchy', 'motor', ',', 'and', 'the', 'maruti', 'reliability', '.']
+
+Stopword removed: ['sense', ',', 'baleno', 'nice', 'sporty', 'family', 'hatchback', 'looks', ',', 'interior', 'space', ',', 'efficient', 'punchy', 'motor', ',', 'maruti', 'reliability', '', '.']
+
+Punctuation removed: ['sense', 'baleno', 'nice', 'sporty', 'family', 'hatchback', 'looks', 'interior', 'space', 'efficient', 'punchy', 'motor', 'maruti', 'reliability']
+
+
+
+Sentence is: However, paying almost Rs 1.5 lakh over the regular 1.2l and without much improvement in the perceived performance of the vehicle is an overkill.
+
+Tokenized words: ['however', ',', 'paying', 'almost', 'rs', '1.5', 'lakh', 'over', 'the', 'regular', '1.2l', 'and', 'without', 'much', 'improvement', 'in', 'the', 'perceived', 'performance', 'of', 'the', 'vehicle', 'is', 'an', 'overkill', '.']
+
+Stopword removed: ['however', ',', 'paying', 'almost', 'rs', '1', 'lakh', 'regular', '1', 'without', 'much', 'improvement', 'perceived', 'performance', 'vehicle', 'overkill', '', '.']
+
+Punctuation removed: ['however', 'paying', 'almost', 'rs', '1', 'lakh', 'regular', '1', 'without', 'much', 'improvement', 'perceived', 'performance', 'vehicle', 'overkill']
+
+
+
+Sentence is: However at Rs 8.69 lakh, ex-Delhi, the Baleno RS sits bang among the few performance hatchbacks (100PS+) we have in the country.
+
+Tokenized words: ['however', 'at', 'rs', '8.69', 'lakh', ',', 'ex-delhi', ',', 'the', 'baleno', 'rs', 'sits', 'bang', 'among', 'the', 'few', 'performance', 'hatchbacks', '(', '100ps+', ')', 'we', 'have', 'in', 'the', 'country', '.']
+
+Stopword removed: ['however', 'rs', '8', 'lakh', ',', 'ex-delhi', ',', 'baleno', 'rs', 'sits', 'bang', 'among', 'performance', 'hatchbacks', '(', '100ps+', ')', 'country', '', '.']
+
+Punctuation removed: ['however', 'rs', '8', 'lakh', 'ex-delhi', 'baleno', 'rs', 'sits', 'bang', 'among', 'performance', 'hatchbacks', '100ps+', 'country']
+
+
+
+Sentence is: Oh!
+
+Tokenized words: ['oh', '!']
+
+Stopword removed: ['oh', '!']
+
+Punctuation removed: ['oh']
+
+
+
+Sentence is: before we forget, RS stands for Road Sport.Also read our Baleno RS Spec Comparison right here!Images: Ishaan BhataiyaHyundai Kona all-electric crossover spotted in India ahead of its launch on July 9 Ola and Uber to discontinue carpooling services in Bengaluru, India Maruti Suzuki Vitara Brezza petrol could launch by August 2019 Upcoming cars - sedans, hatchbacks, SUVs and crossovers - expected to launch in India by second half of 2019 Bikes of 2019: Mega list of all upcoming two-wheeler launches in India Li-ions Elektrik Spock electric 2-wheeler launched in India at Rs 65,000 MG Hector SUV launched in India at Rs 12.18 lakh, ex-showroom Renault announces week-long monsoon camp pan India starting July 8 2019 BMW S 1000 RR launched at Rs 18.5 lakh in India MG eZS electric SUV can be charged at 50 KW DC fast-charging EV stations in India India’s largest auto media for the bike & car community for over 18 years.Copyright © 2018 Overdrive - All rights reserved.Network 18 Sites
+
+Tokenized words: ['before', 'we', 'forget', ',', 'rs', 'stands', 'for', 'road', 'sport.also', 'read', 'our', 'baleno', 'rs', 'spec', 'comparison', 'right', 'here', '!', 'images', ':', 'ishaan', 'bhataiyahyundai', 'kona', 'all-electric', 'crossover', 'spotted', 'in', 'india', 'ahead', 'of', 'its', 'launch', 'on', 'july', '9', 'ola', 'and', 'uber', 'to', 'discontinue', 'carpooling', 'services', 'in', 'bengaluru', ',', 'india', 'maruti', 'suzuki', 'vitara', 'brezza', 'petrol', 'could', 'launch', 'by', 'august', '2019', 'upcoming', 'cars', '-', 'sedans', ',', 'hatchbacks', ',', 'suvs', 'and', 'crossovers', '-', 'expected', 'to', 'launch', 'in', 'india', 'by', 'second', 'half', 'of', '2019', 'bikes', 'of', '2019', ':', 'mega', 'list', 'of', 'all', 'upcoming', 'two-wheeler', 'launches', 'in', 'india', 'li-ions', 'elektrik', 'spock', 'electric', '2-wheeler', 'launched', 'in', 'india', 'at', 'rs', '65,000', 'mg', 'hector', 'suv', 'launched', 'in', 'india', 'at', 'rs', '12.18', 'lakh', ',', 'ex-showroom', 'renault', 'announces', 'week-long', 'monsoon', 'camp', 'pan', 'india', 'starting', 'july', '8', '2019', 'bmw', 's', '1000', 'rr', 'launched', 'at', 'rs', '18.5', 'lakh', 'in', 'india', 'mg', 'ezs', 'electric', 'suv', 'can', 'be', 'charged', 'at', '50', 'kw', 'dc', 'fast-charging', 'ev', 'stations', 'in', 'india', 'india’s', 'largest', 'auto', 'media', 'for', 'the', 'bike', '&', 'car', 'community', 'for', 'over', '18', 'years.copyright', '©', '2018', 'overdrive', '-', 'all', 'rights', 'reserved.network', '18', 'sites']
+
+Stopword removed: ['forget', ',', 'rs', 'stands', 'road', 'sport', 'read', 'baleno', 'rs', 'spec', 'comparison', 'right', '!', 'images', ':', 'ishaan', 'bhataiyahyundai', 'kona', 'all-electric', 'crossover', 'spotted', 'india', 'ahead', 'launch', 'july', '9', 'ola', 'uber', 'discontinue', 'carpooling', 'services', 'bengaluru', ',', 'india', 'maruti', 'suzuki', 'vitara', 'brezza', 'petrol', 'could', 'launch', 'august', '2019', 'upcoming', 'cars', '-', 'sedans', ',', 'hatchbacks', ',', 'suvs', 'crossovers', '-', 'expected', 'launch', 'india', 'second', 'half', '2019', 'bikes', '2019', ':', 'mega', 'list', 'upcoming', 'two-wheeler', 'launches', 'india', 'li-ions', 'elektrik', 'spock', 'electric', '2-wheeler', 'launched', 'india', 'rs', '65,000', 'mg', 'hector', 'suv', 'launched', 'india', 'rs', '12', 'lakh', ',', 'ex-showroom', 'renault', 'announces', 'week-long', 'monsoon', 'camp', 'pan', 'india', 'starting', 'july', '8', '2019', 'bmw', '1000', 'rr', 'launched', 'rs', '18', 'lakh', 'india', 'mg', 'ezs', 'electric', 'suv', 'charged', '50', 'kw', 'dc', 'fast-charging', 'ev', 'stations', 'india', 'india’s', 'largest', 'auto', 'media', 'bike', '&', 'car', 'community', '18', 'years', '©', '2018', 'overdrive', '-', 'rights', 'reserved', '18', 'sites']
+
+Punctuation removed: ['forget', 'rs', 'stands', 'road', 'sport', 'read', 'baleno', 'rs', 'spec', 'comparison', 'right', 'images', 'ishaan', 'bhataiyahyundai', 'kona', 'all-electric', 'crossover', 'spotted', 'india', 'ahead', 'launch', 'july', '9', 'ola', 'uber', 'discontinue', 'carpooling', 'services', 'bengaluru', 'india', 'maruti', 'suzuki', 'vitara', 'brezza', 'petrol', 'could', 'launch', 'august', '2019', 'upcoming', 'cars', 'sedans', 'hatchbacks', 'suvs', 'crossovers', 'expected', 'launch', 'india', 'second', 'half', '2019', 'bikes', '2019', 'mega', 'list', 'upcoming', 'two-wheeler', 'launches', 'india', 'li-ions', 'elektrik', 'spock', 'electric', '2-wheeler', 'launched', 'india', 'rs', '65,000', 'mg', 'hector', 'suv', 'launched', 'india', 'rs', '12', 'lakh', 'ex-showroom', 'renault', 'announces', 'week-long', 'monsoon', 'camp', 'pan', 'india', 'starting', 'july', '8', '2019', 'bmw', '1000', 'rr', 'launched', 'rs', '18', 'lakh', 'india', 'mg', 'ezs', 'electric', 'suv', 'charged', '50', 'kw', 'dc', 'fast-charging', 'ev', 'stations', 'india', 'india’s', 'largest', 'auto', 'media', 'bike', 'car', 'community', '18', 'years', '©', '2018', 'overdrive', 'rights', 'reserved', '18', 'sites']
+
+Last: ['forget', 'r', 'stand', 'road', 'sport', 'read', 'baleno', 'r', 'spec', 'comparison', 'right', 'image', 'ishaan', 'bhataiyahyundai', 'kona', 'all-electric', 'crossover', 'spotted', 'india', 'ahead', 'launch', 'july', '9', 'ola', 'uber', 'discontinue', 'carpooling', 'service', 'bengaluru', 'india', 'maruti', 'suzuki', 'vitara', 'brezza', 'petrol', 'could', 'launch', 'august', '2019', 'upcoming', 'car', 'sedan', 'hatchback', 'suv', 'crossover', 'expected', 'launch', 'india', 'second', 'half', '2019', 'bike', '2019', 'mega', 'list', 'upcoming', 'two-wheeler', 'launch', 'india', 'li-ions', 'elektrik', 'spock', 'electric', '2-wheeler', 'launched', 'india', 'r', '65,000', 'mg', 'hector', 'suv', 'launched', 'india', 'r', '12', 'lakh', 'ex-showroom', 'renault', 'announces', 'week-long', 'monsoon', 'camp', 'pan', 'india', 'starting', 'july', '8', '2019', 'bmw', '1000', 'rr', 'launched', 'r', '18', 'lakh', 'india', 'mg', 'ezs', 'electric', 'suv', 'charged', '50', 'kw', 'dc', 'fast-charging', 'ev', 'station', 'india', 'india’s', 'largest', 'auto', 'medium', 'bike', 'car', 'community', '18', 'year', '©', '2018', 'overdrive', 'right', 'reserved', '18', 'site']
+
+
+
+
+
+Sentence is: RS!
+
+Tokenized words: ['rs', '!']
+
+Stopword removed: ['rs', '!']
+
+Punctuation removed: ['rs']
+
+
+
+Sentence is: However at Rs 8.69 lakh, ex-Delhi, the Baleno RS sits bang among the few performance hatchbacks (100PS+) we have in the country.
+
+Tokenized words: ['however', 'at', 'rs', '8.69', 'lakh', ',', 'ex-delhi', ',', 'the', 'baleno', 'rs', 'sits', 'bang', 'among', 'the', 'few', 'performance', 'hatchbacks', '(', '100ps+', ')', 'we', 'have', 'in', 'the', 'country', '.']
+
+Stopword removed: ['however', 'rs', '8', 'lakh', ',', 'ex-delhi', ',', 'baleno', 'rs', 'sits', 'bang', 'among', 'performance', 'hatchbacks', '(', '100ps+', ')', 'country', '', '.']
+
+Punctuation removed: ['however', 'rs', '8', 'lakh', 'ex-delhi', 'baleno', 'rs', 'sits', 'bang', 'among', 'performance', 'hatchbacks', '100ps+', 'country']
+
+
+
+Sentence is: But now, the company has a proper RS trim in the Baleno and we were invited to the BIC to drive it.The cars at the BIC were already warmed up for us by the good folk at Maruti.
+
+Tokenized words: ['but', 'now', ',', 'the', 'company', 'has', 'a', 'proper', 'rs', 'trim', 'in', 'the', 'baleno', 'and', 'we', 'were', 'invited', 'to', 'the', 'bic', 'to', 'drive', 'it.the', 'cars', 'at', 'the', 'bic', 'were', 'already', 'warmed', 'up', 'for', 'us', 'by', 'the', 'good', 'folk', 'at', 'maruti', '.']
+
+Stopword removed: [',', 'company', 'proper', 'rs', 'trim', 'baleno', 'invited', 'bic', 'drive', 'cars', 'bic', 'already', 'warmed', 'us', 'good', 'folk', 'maruti', '', '.']
+
+Punctuation removed: ['company', 'proper', 'rs', 'trim', 'baleno', 'invited', 'bic', 'drive', 'cars', 'bic', 'already', 'warmed', 'us', 'good', 'folk', 'maruti']
+
+
+
+Sentence is: However, the car still handles predictably.
+
+Tokenized words: ['however', ',', 'the', 'car', 'still', 'handles', 'predictably', '.']
+
+Stopword removed: ['however', ',', 'car', 'still', 'handles', 'predictably', '', '.']
+
+Punctuation removed: ['however', 'car', 'still', 'handles', 'predictably']
+
+
+
+Sentence is: This shows in the way the car handles.
+
+Tokenized words: ['this', 'shows', 'in', 'the', 'way', 'the', 'car', 'handles', '.']
+
+Stopword removed: ['shows', 'way', 'car', 'handles', '', '.']
+
+Punctuation removed: ['shows', 'way', 'car', 'handles']
+
+
+
+Sentence is: However, it debuts Maruti's first-ever turbo-petrol engine and will be a brand builder for future performance vehicles.
+
+Tokenized words: ['however', ',', 'it', 'debuts', 'maruti', "'s", 'first-ever', 'turbo-petrol', 'engine', 'and', 'will', 'be', 'a', 'brand', 'builder', 'for', 'future', 'performance', 'vehicles', '.']
+
+Stopword removed: ['however', ',', 'debuts', 'maruti', "'s", 'first-ever', 'turbo-petrol', 'engine', 'brand', 'builder', 'future', 'performance', 'vehicles', '', '.']
+
+Punctuation removed: ['however', 'debuts', 'maruti', "'s", 'first-ever', 'turbo-petrol', 'engine', 'brand', 'builder', 'future', 'performance', 'vehicles']
+
+
+
+Sentence is: This also adds to the cost of the car.On to the drive experience then.
+
+Tokenized words: ['this', 'also', 'adds', 'to', 'the', 'cost', 'of', 'the', 'car.on', 'to', 'the', 'drive', 'experience', 'then', '.']
+
+Stopword removed: ['also', 'adds', 'cost', 'car', 'drive', 'experience', '', '.']
+
+Punctuation removed: ['also', 'adds', 'cost', 'car', 'drive', 'experience']
+
+
+
+Sentence is: However, we wish the motor sounded a tad more sporty at those speeds.
+
+Tokenized words: ['however', ',', 'we', 'wish', 'the', 'motor', 'sounded', 'a', 'tad', 'more', 'sporty', 'at', 'those', 'speeds', '.']
+
+Stopword removed: ['however', ',', 'wish', 'motor', 'sounded', 'tad', 'sporty', 'speeds', '', '.']
+
+Punctuation removed: ['however', 'wish', 'motor', 'sounded', 'tad', 'sporty', 'speeds']
+
+
+
+Sentence is: The Baleno RS is also compliant with front offset, side impact and pedestrian safety crash tests.
+
+Tokenized words: ['the', 'baleno', 'rs', 'is', 'also', 'compliant', 'with', 'front', 'offset', ',', 'side', 'impact', 'and', 'pedestrian', 'safety', 'crash', 'tests', '.']
+
+Stopword removed: ['baleno', 'rs', 'also', 'compliant', 'front', 'offset', ',', 'side', 'impact', 'pedestrian', 'safety', 'crash', 'tests', '', '.']
+
+Punctuation removed: ['baleno', 'rs', 'also', 'compliant', 'front', 'offset', 'side', 'impact', 'pedestrian', 'safety', 'crash', 'tests']
+
+
+
+Sentence is: However, paying almost Rs 1.5 lakh over the regular 1.2l and without much improvement in the perceived performance of the vehicle is an overkill.
+
+Tokenized words: ['however', ',', 'paying', 'almost', 'rs', '1.5', 'lakh', 'over', 'the', 'regular', '1.2l', 'and', 'without', 'much', 'improvement', 'in', 'the', 'perceived', 'performance', 'of', 'the', 'vehicle', 'is', 'an', 'overkill', '.']
+
+Stopword removed: ['however', ',', 'paying', 'almost', 'rs', '1', 'lakh', 'regular', '1', 'without', 'much', 'improvement', 'perceived', 'performance', 'vehicle', 'overkill', '', '.']
+
+Punctuation removed: ['however', 'paying', 'almost', 'rs', '1', 'lakh', 'regular', '1', 'without', 'much', 'improvement', 'perceived', 'performance', 'vehicle', 'overkill']
+
+
+
+Sentence is: Of course, there is an RS badge at the back too.
+
+Tokenized words: ['of', 'course', ',', 'there', 'is', 'an', 'rs', 'badge', 'at', 'the', 'back', 'too', '.']
+
+Stopword removed: ['course', ',', 'rs', 'badge', 'back', '', '.']
+
+Punctuation removed: ['course', 'rs', 'badge', 'back']
+
+
+
+Sentence is: The steering wheel also lets you know how much effort has to be put to make that corner, and the effort doesn't vary every time you take the same corner at the same speed.That being said, the steering, like all Maruti units, feels a bit heavy at low speeds.
+
+Tokenized words: ['the', 'steering', 'wheel', 'also', 'lets', 'you', 'know', 'how', 'much', 'effort', 'has', 'to', 'be', 'put', 'to', 'make', 'that', 'corner', ',', 'and', 'the', 'effort', 'does', "n't", 'vary', 'every', 'time', 'you', 'take', 'the', 'same', 'corner', 'at', 'the', 'same', 'speed.that', 'being', 'said', ',', 'the', 'steering', ',', 'like', 'all', 'maruti', 'units', ',', 'feels', 'a', 'bit', 'heavy', 'at', 'low', 'speeds', '.']
+
+Stopword removed: ['steering', 'wheel', 'also', 'lets', 'know', 'much', 'effort', 'put', 'make', 'corner', ',', 'effort', "n't", 'vary', 'every', 'time', 'take', 'corner', 'speed', 'said', ',', 'steering', ',', 'like', 'maruti', 'units', ',', 'feels', 'bit', 'heavy', 'low', 'speeds', '', '.']
+
+Punctuation removed: ['steering', 'wheel', 'also', 'lets', 'know', 'much', 'effort', 'put', 'make', 'corner', 'effort', "n't", 'vary', 'every', 'time', 'take', 'corner', 'speed', 'said', 'steering', 'like', 'maruti', 'units', 'feels', 'bit', 'heavy', 'low', 'speeds']
+
+
+
+Sentence is: In the sense, the Baleno is a nice and sporty family hatchback.It has the looks, interior space, efficient and punchy motor, and the Maruti reliability.
+
+Tokenized words: ['in', 'the', 'sense', ',', 'the', 'baleno', 'is', 'a', 'nice', 'and', 'sporty', 'family', 'hatchback.it', 'has', 'the', 'looks', ',', 'interior', 'space', ',', 'efficient', 'and', 'punchy', 'motor', ',', 'and', 'the', 'maruti', 'reliability', '.']
+
+Stopword removed: ['sense', ',', 'baleno', 'nice', 'sporty', 'family', 'hatchback', 'looks', ',', 'interior', 'space', ',', 'efficient', 'punchy', 'motor', ',', 'maruti', 'reliability', '', '.']
+
+Punctuation removed: ['sense', 'baleno', 'nice', 'sporty', 'family', 'hatchback', 'looks', 'interior', 'space', 'efficient', 'punchy', 'motor', 'maruti', 'reliability']
+
+
+
+Sentence is: The badge holds high regard in any car enthusiast's heart.
+
+Tokenized words: ['the', 'badge', 'holds', 'high', 'regard', 'in', 'any', 'car', 'enthusiast', "'s", 'heart', '.']
+
+Stopword removed: ['badge', 'holds', 'high', 'regard', 'car', 'enthusiast', "'s", 'heart', '', '.']
+
+Punctuation removed: ['badge', 'holds', 'high', 'regard', 'car', 'enthusiast', "'s", 'heart']
+
+
+
+Sentence is: There is no sudden spike in the power delivery, and the linear approach adopted by Maruti will align with the family car appeal of the Baleno.On the straight at BIC, we saw 160kmph in fourth gear, with the tachometer needle nudging the 6,200rpm redline, before we had to brake for the corner.
+
+Tokenized words: ['there', 'is', 'no', 'sudden', 'spike', 'in', 'the', 'power', 'delivery', ',', 'and', 'the', 'linear', 'approach', 'adopted', 'by', 'maruti', 'will', 'align', 'with', 'the', 'family', 'car', 'appeal', 'of', 'the', 'baleno.on', 'the', 'straight', 'at', 'bic', ',', 'we', 'saw', '160kmph', 'in', 'fourth', 'gear', ',', 'with', 'the', 'tachometer', 'needle', 'nudging', 'the', '6,200rpm', 'redline', ',', 'before', 'we', 'had', 'to', 'brake', 'for', 'the', 'corner', '.']
+
+Stopword removed: ['sudden', 'spike', 'power', 'delivery', ',', 'linear', 'approach', 'adopted', 'maruti', 'align', 'family', 'car', 'appeal', 'baleno', 'straight', 'bic', ',', 'saw', '160kmph', 'fourth', 'gear', ',', 'tachometer', 'needle', 'nudging', '6,200rpm', 'redline', ',', 'brake', 'corner', '', '.']
+
+Punctuation removed: ['sudden', 'spike', 'power', 'delivery', 'linear', 'approach', 'adopted', 'maruti', 'align', 'family', 'car', 'appeal', 'baleno', 'straight', 'bic', 'saw', '160kmph', 'fourth', 'gear', 'tachometer', 'needle', 'nudging', '6,200rpm', 'redline', 'brake', 'corner']
+
+
+
+Sentence is: Maruti also haven't quoted any claimed 0-100kmph numbers, but the company did stress on the claimed fuel efficiency of 21.1kmpl.Maruti says that they have stiffened the shocks at the front to accommodate the extra weight of the engine.
+
+Tokenized words: ['maruti', 'also', 'have', "n't", 'quoted', 'any', 'claimed', '0-100kmph', 'numbers', ',', 'but', 'the', 'company', 'did', 'stress', 'on', 'the', 'claimed', 'fuel', 'efficiency', 'of', '21.1kmpl.maruti', 'says', 'that', 'they', 'have', 'stiffened', 'the', 'shocks', 'at', 'the', 'front', 'to', 'accommodate', 'the', 'extra', 'weight', 'of', 'the', 'engine', '.']
+
+Stopword removed: ['maruti', 'also', "n't", 'quoted', 'claimed', '0-100kmph', 'numbers', ',', 'company', 'stress', 'claimed', 'fuel', 'efficiency', '21', 'says', 'stiffened', 'shocks', 'front', 'accommodate', 'extra', 'weight', 'engine', '', '.']
+
+Punctuation removed: ['maruti', 'also', "n't", 'quoted', 'claimed', '0-100kmph', 'numbers', 'company', 'stress', 'claimed', 'fuel', 'efficiency', '21', 'says', 'stiffened', 'shocks', 'front', 'accommodate', 'extra', 'weight', 'engine']
+
+
+
+Sentence is: Although, we particularly like the different menus that the multi-information display showcases, including available power and torque graphs.The RS badge gives the Baleno brand a shot in the arm.
+
+Tokenized words: ['although', ',', 'we', 'particularly', 'like', 'the', 'different', 'menus', 'that', 'the', 'multi-information', 'display', 'showcases', ',', 'including', 'available', 'power', 'and', 'torque', 'graphs.the', 'rs', 'badge', 'gives', 'the', 'baleno', 'brand', 'a', 'shot', 'in', 'the', 'arm', '.']
+
+Stopword removed: ['although', ',', 'particularly', 'like', 'different', 'menus', 'multi-information', 'display', 'showcases', ',', 'including', 'available', 'power', 'torque', 'graphs', 'rs', 'badge', 'gives', 'baleno', 'brand', 'shot', 'arm', '', '.']
+
+Punctuation removed: ['although', 'particularly', 'like', 'different', 'menus', 'multi-information', 'display', 'showcases', 'including', 'available', 'power', 'torque', 'graphs', 'rs', 'badge', 'gives', 'baleno', 'brand', 'shot', 'arm']
+
+
+
+Sentence is: Given the extra boost in power, the car comes with disc brakes on all four wheels.
+
+Tokenized words: ['given', 'the', 'extra', 'boost', 'in', 'power', ',', 'the', 'car', 'comes', 'with', 'disc', 'brakes', 'on', 'all', 'four', 'wheels', '.']
+
+Stopword removed: ['given', 'extra', 'boost', 'power', ',', 'car', 'comes', 'disc', 'brakes', 'four', 'wheels', '', '.']
+
+Punctuation removed: ['given', 'extra', 'boost', 'power', 'car', 'comes', 'disc', 'brakes', 'four', 'wheels']
+
+
+
+Sentence is: Speaking of which, this engine is an import from Suzuki's Japan plant and adds to about 60kg to the Baleno's overall weight (950kg).
+
+Tokenized words: ['speaking', 'of', 'which', ',', 'this', 'engine', 'is', 'an', 'import', 'from', 'suzuki', "'s", 'japan', 'plant', 'and', 'adds', 'to', 'about', '60kg', 'to', 'the', 'baleno', "'s", 'overall', 'weight', '(', '950kg', ')', '.']
+
+Stopword removed: ['speaking', ',', 'engine', 'import', 'suzuki', "'s", 'japan', 'plant', 'adds', '60kg', 'baleno', "'s", 'overall', 'weight', '(', '950kg', ')', '', '.']
+
+Punctuation removed: ['speaking', 'engine', 'import', 'suzuki', "'s", 'japan', 'plant', 'adds', '60kg', 'baleno', "'s", 'overall', 'weight', '950kg']
+
+
+
+Sentence is: Maruti officials confirmed that the bonnet absorbs much of the crash impact, instead of passing it on to the pedestrian it has collided with.Maruti distinguishes the RS from its stablemate by using new sporty bumpers at the front and rear, chrome grille, side skirts, black alloys and an integrated spoiler.
+
+Tokenized words: ['maruti', 'officials', 'confirmed', 'that', 'the', 'bonnet', 'absorbs', 'much', 'of', 'the', 'crash', 'impact', ',', 'instead', 'of', 'passing', 'it', 'on', 'to', 'the', 'pedestrian', 'it', 'has', 'collided', 'with.maruti', 'distinguishes', 'the', 'rs', 'from', 'its', 'stablemate', 'by', 'using', 'new', 'sporty', 'bumpers', 'at', 'the', 'front', 'and', 'rear', ',', 'chrome', 'grille', ',', 'side', 'skirts', ',', 'black', 'alloys', 'and', 'an', 'integrated', 'spoiler', '.']
+
+Stopword removed: ['maruti', 'officials', 'confirmed', 'bonnet', 'absorbs', 'much', 'crash', 'impact', ',', 'instead', 'passing', 'pedestrian', 'collided', 'distinguishes', 'rs', 'stablemate', 'using', 'new', 'sporty', 'bumpers', 'front', 'rear', ',', 'chrome', 'grille', ',', 'side', 'skirts', ',', 'black', 'alloys', 'integrated', 'spoiler', '', '.']
+
+Punctuation removed: ['maruti', 'officials', 'confirmed', 'bonnet', 'absorbs', 'much', 'crash', 'impact', 'instead', 'passing', 'pedestrian', 'collided', 'distinguishes', 'rs', 'stablemate', 'using', 'new', 'sporty', 'bumpers', 'front', 'rear', 'chrome', 'grille', 'side', 'skirts', 'black', 'alloys', 'integrated', 'spoiler']
+
+
+
+Sentence is: Maruti was supposed to get in the Swift RS, but what we got instead was the limited edition cosmetic-only trim in 2015.
+
+Tokenized words: ['maruti', 'was', 'supposed', 'to', 'get', 'in', 'the', 'swift', 'rs', ',', 'but', 'what', 'we', 'got', 'instead', 'was', 'the', 'limited', 'edition', 'cosmetic-only', 'trim', 'in', '2015', '.']
+
+Stopword removed: ['maruti', 'supposed', 'get', 'swift', 'rs', ',', 'got', 'instead', 'limited', 'edition', 'cosmetic-only', 'trim', '2015', '', '.']
+
+Punctuation removed: ['maruti', 'supposed', 'get', 'swift', 'rs', 'got', 'instead', 'limited', 'edition', 'cosmetic-only', 'trim', '2015']
+
+
+
+Sentence is: While we didn't have a chance to check the ride quality of the RS, expect it to retain the slightly firm ride quality that the car is known for.
+
+Tokenized words: ['while', 'we', 'did', "n't", 'have', 'a', 'chance', 'to', 'check', 'the', 'ride', 'quality', 'of', 'the', 'rs', ',', 'expect', 'it', 'to', 'retain', 'the', 'slightly', 'firm', 'ride', 'quality', 'that', 'the', 'car', 'is', 'known', 'for', '.']
+
+Stopword removed: ["n't", 'chance', 'check', 'ride', 'quality', 'rs', ',', 'expect', 'retain', 'slightly', 'firm', 'ride', 'quality', 'car', 'known', '', '.']
+
+Punctuation removed: ["n't", 'chance', 'check', 'ride', 'quality', 'rs', 'expect', 'retain', 'slightly', 'firm', 'ride', 'quality', 'car', 'known']
+
+
+
+Sentence is: For the sake of photographs, we had to drive the car at 40kmph and it was happy doing it at third gear. 
+
+Tokenized words: ['for', 'the', 'sake', 'of', 'photographs', ',', 'we', 'had', 'to', 'drive', 'the', 'car', 'at', '40kmph', 'and', 'it', 'was', 'happy', 'doing', 'it', 'at', 'third', 'gear', '.']
+
+Stopword removed: ['sake', 'photographs', ',', 'drive', 'car', '40kmph', 'happy', 'third', 'gear', '', '.']
+
+Punctuation removed: ['sake', 'photographs', 'drive', 'car', '40kmph', 'happy', 'third', 'gear']
+
+Last: ['sake', 'photograph', 'drive', 'car', '40kmph', 'happy', 'third', 'gear']
+
+
+
